@@ -1,3 +1,5 @@
+> Development and releases have moved to [pi-extensions/packages/prompt-per-model](https://github.com/ZhenHuangLab/pi-extensions/tree/main/packages/prompt-per-model). Please use the new repository for changes and issues.
+
 <h1 align="center">prompt-per-model</h1>
 
 <p align="center">
